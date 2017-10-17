@@ -1,0 +1,10 @@
+[package]
+name = "game_of_life"
+version = "0.1.0"
+authors = ["kmingalls2018"]
+build = "build.rs"
+
+[dependencies]
+rand = "0.3.16"
+sdl2 = "0.30.0"
+time = "0.1.38"
