@@ -2,7 +2,6 @@
 name = "game_of_life"
 version = "0.1.0"
 authors = ["kevbot18"]
-build = "build.rs"
 
 [dependencies]
 rand = "0.3.16"
